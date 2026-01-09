@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Anything Goes!",
+  "base_artist": "大黒摩季",
+  "createdAt": "2026-01-09T06:26:31.245956Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Anything Goes",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/01_Anything_Goes_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Anything Goes",
+      "artist": "Major Lazer feat. Turbulence",
+      "has_synced": true,
+      "path": "select/02_Anything_Goes_Major_Lazer_feat._Turbulence.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Anything Goes (Feat. Turbulance)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/03_Anything_Goes_(Feat._Turbulance)_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sculptures Of Anything Goes",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/04_Sculptures_Of_Anything_Goes_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Anything Goes",
+      "artist": "Ella Fitzgerald",
+      "has_synced": false,
+      "path": "select/05_Anything_Goes_Ella_Fitzgerald.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Anything Goes",
+      "artist": "The Rat Pack",
+      "has_synced": false,
+      "path": "select/06_Anything_Goes_The_Rat_Pack.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Anything Goes",
+      "artist": "Frank Sinatra",
+      "has_synced": false,
+      "path": "select/07_Anything_Goes_Frank_Sinatra.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Anything Goes",
+      "artist": "Ras Kass",
+      "has_synced": true,
+      "path": "select/08_Anything_Goes_Ras_Kass.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Anything Goes (feat. Ty Dolla $ign)",
+      "artist": "R. Kelly feat. Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/09_Anything_Goes_(feat._Ty_Dolla_$ign)_R._Kelly_feat._Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Anything Goes (Feat. Ty Dolla $ign)",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/10_Anything_Goes_(Feat._Ty_Dolla_$ign)_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Anything Goes",
+      "artist": "AC/DC",
+      "has_synced": false,
+      "path": "select/11_Anything_Goes_AC_DC.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Anything Goes",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/12_Anything_Goes_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Anything Goes",
+      "artist": "ACDC",
+      "has_synced": true,
+      "path": "select/13_Anything_Goes_ACDC.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Anything Goes",
+      "artist": "Tony Bennett feat. Lady Gaga",
+      "has_synced": true,
+      "path": "select/14_Anything_Goes_Tony_Bennett_feat._Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Anything Goes",
+      "artist": "Tony Bennett & Lady Gaga",
+      "has_synced": true,
+      "path": "select/15_Anything_Goes_Tony_Bennett_&_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Almost Anything Goes",
+      "artist": "The Mighty Mighty Bosstones",
+      "has_synced": true,
+      "path": "select/16_Almost_Anything_Goes_The_Mighty_Mighty_Bosstones.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Anything Goes",
+      "artist": "The Gregg Allman Band",
+      "has_synced": false,
+      "path": "select/17_Anything_Goes_The_Gregg_Allman_Band.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Anything Goes!",
+      "artist": "大黒 摩季",
+      "has_synced": false,
+      "path": "select/pl_01_Anything_Goes!_大黒_摩季.txt"
+    }
+  ]
+}
